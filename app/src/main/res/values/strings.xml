@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">StateChangeApp</string>
+    <string name="State1TextView">状態画面1</string>
+    <string name="State2TextView">状態画面2</string>
+    <string name="State3TextView">状態画面3</string>
+    <string name="State3to1">状態画面1へ行く</string>
+    <string name="State3to2">状態画面2へ行く</string>
+    <string name="State2to3">状態画面3へ行く</string>
+    <string name="State2to1">状態画面1へ行く</string>
+    <string name="State1to3">状態画面3へ行く</string>
+    <string name="State1to2">状態画面2へ行く</string>
 </resources>
